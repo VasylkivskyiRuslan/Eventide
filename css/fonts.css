@@ -1,0 +1,186 @@
+@font-face{
+font-family: 'HelveticaNeue';
+src: url('../fonts/HelveticaNeue/HelveticaNeue.eot');
+src: url('../fonts/HelveticaNeue/HelveticaNeue.eot?iefix') format('embedded-opentype'),
+url('../fonts/HelveticaNeue/HelveticaNeue.woff') format('woff'),
+url('../fonts/HelveticaNeue/HelveticaNeue.ttf') format('truetype'),
+url('../fonts/HelveticaNeue/HelveticaNeue.svg#HelveticaNeue') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face{
+font-family: 'HelveticaNeue-Bold';
+src: url('../fonts/HelveticaNeue-Bold/HelveticaNeue-Bold.eot');
+src: url('../fonts/HelveticaNeue-Bold/HelveticaNeue-Bold.eot?iefix') format('embedded-opentype'),
+url('../fonts/HelveticaNeue-Bold/HelveticaNeue-Bold.woff') format('woff'),
+url('../fonts/HelveticaNeue-Bold/HelveticaNeue-Bold.ttf') format('truetype'),
+url('../fonts/HelveticaNeue-Bold/HelveticaNeue-Bold.svg#HelveticaNeue-Bold') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face{
+font-family: 'HelveticaNeueLTStd-Bd';
+src: url('../fonts/HelveticaNeueLTStd-Bd/HelveticaNeueLTStd-Bd.eot');
+src: url('../fonts/HelveticaNeueLTStd-Bd/HelveticaNeueLTStd-Bd.eot?iefix') format('embedded-opentype'),
+url('../fonts/HelveticaNeueLTStd-Bd/HelveticaNeueLTStd-Bd.woff') format('woff'),
+url('../fonts/HelveticaNeueLTStd-Bd/HelveticaNeueLTStd-Bd.ttf') format('truetype'),
+url('../fonts/HelveticaNeueLTStd-Bd/HelveticaNeueLTStd-Bd.svg#HelveticaNeueLTStd-Bd') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face{
+font-family: 'Montserrat-Black';
+src: url('../fonts/Montserrat-Black/Montserrat-Black.eot');
+src: url('../fonts/Montserrat-Black/Montserrat-Black.eot?iefix') format('embedded-opentype'),
+url('../fonts/Montserrat-Black/Montserrat-Black.woff') format('woff'),
+url('../fonts/Montserrat-Black/Montserrat-Black.ttf') format('truetype'),
+url('../fonts/Montserrat-Black/Montserrat-Black.svg#Montserrat-Black') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face{
+font-family: 'Montserrat-Bold';
+src: url('../fonts/Montserrat-Bold/Montserrat-Bold.eot');
+src: url('../fonts/Montserrat-Bold/Montserrat-Bold.eot?iefix') format('embedded-opentype'),
+url('../fonts/Montserrat-Bold/Montserrat-Bold.woff') format('woff'),
+url('../fonts/Montserrat-Bold/Montserrat-Bold.ttf') format('truetype'),
+url('../fonts/Montserrat-Bold/Montserrat-Bold.svg#Montserrat-Bold') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face{
+font-family: 'Montserrat-Hairline';
+src: url('../fonts/Montserrat-Hairline/Montserrat-Hairline.eot');
+src: url('../fonts/Montserrat-Hairline/Montserrat-Hairline.eot?iefix') format('embedded-opentype'),
+url('../fonts/Montserrat-Hairline/Montserrat-Hairline.woff') format('woff'),
+url('../fonts/Montserrat-Hairline/Montserrat-Hairline.ttf') format('truetype'),
+url('../fonts/Montserrat-Hairline/Montserrat-Hairline.svg#Montserrat-Hairline') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face{
+font-family: 'Montserrat-Regular';
+src: url('../fonts/Montserrat-Regular/Montserrat-Regular.eot');
+src: url('../fonts/Montserrat-Regular/Montserrat-Regular.eot?iefix') format('embedded-opentype'),
+url('../fonts/Montserrat-Regular/Montserrat-Regular.woff') format('woff'),
+url('../fonts/Montserrat-Regular/Montserrat-Regular.ttf') format('truetype'),
+url('../fonts/Montserrat-Regular/Montserrat-Regular.svg#Montserrat-Regular') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face{
+font-family: 'Ubuntu-Bold';
+src: url('../fonts/Ubuntu-Bold/Ubuntu-Bold.eot');
+src: url('../fonts/Ubuntu-Bold/Ubuntu-Bold.eot?iefix') format('embedded-opentype'),
+url('../fonts/Ubuntu-Bold/Ubuntu-Bold.woff') format('woff'),
+url('../fonts/Ubuntu-Bold/Ubuntu-Bold.ttf') format('truetype'),
+url('../fonts/Ubuntu-Bold/Ubuntu-Bold.svg#Ubuntu-Bold') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face{
+font-family: 'Ubuntu-BoldItalic';
+src: url('../fonts/Ubuntu-BoldItalic/Ubuntu-BoldItalic.eot');
+src: url('../fonts/Ubuntu-BoldItalic/Ubuntu-BoldItalic.eot?iefix') format('embedded-opentype'),
+url('../fonts/Ubuntu-BoldItalic/Ubuntu-BoldItalic.woff') format('woff'),
+url('../fonts/Ubuntu-BoldItalic/Ubuntu-BoldItalic.ttf') format('truetype'),
+url('../fonts/Ubuntu-BoldItalic/Ubuntu-BoldItalic.svg#Ubuntu-BoldItalic') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face{
+font-family: 'Ubuntu-Light';
+src: url('../fonts/Ubuntu-Light/Ubuntu-Light.eot');
+src: url('../fonts/Ubuntu-Light/Ubuntu-Light.eot?iefix') format('embedded-opentype'),
+url('../fonts/Ubuntu-Light/Ubuntu-Light.woff') format('woff'),
+url('../fonts/Ubuntu-Light/Ubuntu-Light.ttf') format('truetype'),
+url('../fonts/Ubuntu-Light/Ubuntu-Light.svg#Ubuntu-Light') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face{
+font-family: 'UbuntuCondensed-Regular';
+src: url('../fonts/UbuntuCondensed-Regular/UbuntuCondensed-Regular.eot');
+src: url('../fonts/UbuntuCondensed-Regular/UbuntuCondensed-Regular.eot?iefix') format('embedded-opentype'),
+url('../fonts/UbuntuCondensed-Regular/UbuntuCondensed-Regular.woff') format('woff'),
+url('../fonts/UbuntuCondensed-Regular/UbuntuCondensed-Regular.ttf') format('truetype'),
+url('../fonts/UbuntuCondensed-Regular/UbuntuCondensed-Regular.svg#UbuntuCondensed-Regular') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face{
+font-family: 'Ubuntu-Medium';
+src: url('../fonts/Ubuntu-Medium/Ubuntu-Medium.eot');
+src: url('../fonts/Ubuntu-Medium/Ubuntu-Medium.eot?iefix') format('embedded-opentype'),
+url('../fonts/Ubuntu-Medium/Ubuntu-Medium.woff') format('woff'),
+url('../fonts/Ubuntu-Medium/Ubuntu-Medium.ttf') format('truetype'),
+url('../fonts/Ubuntu-Medium/Ubuntu-Medium.svg#Ubuntu-Medium') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face{
+font-family: 'Ubuntu-MediumItalic';
+src: url('../fonts/Ubuntu-MediumItalic/Ubuntu-MediumItalic.eot');
+src: url('../fonts/Ubuntu-MediumItalic/Ubuntu-MediumItalic.eot?iefix') format('embedded-opentype'),
+url('../fonts/Ubuntu-MediumItalic/Ubuntu-MediumItalic.woff') format('woff'),
+url('../fonts/Ubuntu-MediumItalic/Ubuntu-MediumItalic.ttf') format('truetype'),
+url('../fonts/Ubuntu-MediumItalic/Ubuntu-MediumItalic.svg#Ubuntu-MediumItalic') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face{
+font-family: 'Ubuntu-Regular';
+src: url('../fonts/Ubuntu-Regular/Ubuntu-Regular.eot');
+src: url('../fonts/Ubuntu-Regular/Ubuntu-Regular.eot?iefix') format('embedded-opentype'),
+url('../fonts/Ubuntu-Regular/Ubuntu-Regular.woff') format('woff'),
+url('../fonts/Ubuntu-Regular/Ubuntu-Regular.ttf') format('truetype'),
+url('../fonts/Ubuntu-Regular/Ubuntu-Regular.svg#Ubuntu-Regular') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face{
+font-family: 'Ubuntu-RegularItalic';
+src: url('../fonts/Ubuntu-RegularItalic/Ubuntu-RegularItalic.eot');
+src: url('../fonts/Ubuntu-RegularItalic/Ubuntu-RegularItalic.eot?iefix') format('embedded-opentype'),
+url('../fonts/Ubuntu-RegularItalic/Ubuntu-RegularItalic.woff') format('woff'),
+url('../fonts/Ubuntu-RegularItalic/Ubuntu-RegularItalic.ttf') format('truetype'),
+url('../fonts/Ubuntu-RegularItalic/Ubuntu-RegularItalic.svg#Ubuntu-RegularItalic') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face{
+font-family: 'Montserrat-Light';
+src: url('../fonts/Montserrat-Light/Montserrat-Light.eot');
+src: url('../fonts/Montserrat-Light/Montserrat-Light.eot?iefix') format('embedded-opentype'),
+url('../fonts/Montserrat-Light/Montserrat-Light.woff') format('woff'),
+url('../fonts/Montserrat-Light/Montserrat-Light.ttf') format('truetype'),
+url('../fonts/Montserrat-Light/Montserrat-Light.svg#Montserrat-Light') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face{
+font-family: 'Ubuntu-LightItalic';
+src: url('../fonts/Ubuntu-LightItalic/Ubuntu-LightItalic.eot');
+src: url('../fonts/Ubuntu-LightItalic/Ubuntu-LightItalic.eot?iefix') format('embedded-opentype'),
+url('../fonts/Ubuntu-LightItalic/Ubuntu-LightItalic.woff') format('woff'),
+url('../fonts/Ubuntu-LightItalic/Ubuntu-LightItalic.ttf') format('truetype'),
+url('../fonts/Ubuntu-LightItalic/Ubuntu-LightItalic.svg#Ubuntu-LightItalic') format('svg');
+font-weight: normal;
+font-style: normal;
+}

@@ -1,0 +1,190 @@
+@media screen and (max-width: 995px),
+screen and (max-device-width: 995px){
+  .header-bg{
+    min-height: auto;
+    padding: 25px 0;
+  }
+
+  .header-bg__header-logo{
+    margin-top: 0;
+  }
+
+  .header-bg__btn-reg{
+    padding: 0;
+    text-align: center;
+  }
+
+  .header-bg__btn-reg a{
+    width: 90%;
+    margin-bottom: 20px;
+  }
+
+  .header-bg__btn-dis{
+    padding: 0;
+    text-align: center;
+  }
+
+  .header-bg__btn-dis a{
+    width: 90%;
+    margin-bottom: 20px;
+  }
+
+  .content__about-left{
+    text-align: center;
+    margin-top: 40px;
+  }
+
+  .content__about-left article,
+  .content__about-left p{
+    display: none;
+  }
+
+  .content__about-right{
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .content__about-right p{
+    line-height: 31px;
+  }
+
+  .content__about-right a{
+    width: 50%;
+    float: left;
+  }
+
+  .content__about-right ul{
+    width: 50%;
+    padding-left: 5%;
+    text-align: left;
+  }
+
+  .content__about-right img{
+    padding-left: 10%;
+  }
+
+  .content__speaker{
+    display: none;
+  }
+
+  .content__speaker-list{
+    display: none;
+  }
+
+  .content__speaker__register p{
+    display: none;
+  }
+
+  .content__speaker__register a{
+    margin-bottom: 20px;
+  }
+
+  .feature__schedule{
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  .feature__schedule p,
+  .feature__schedule article,
+  .feature__schedule a{
+    display: none;
+  }
+
+  .feature__tabs {
+    margin-top: 20px;
+  }
+
+  .video img{
+    margin-top: 20px;
+  }
+
+  .promotional{
+    display: none;
+  }
+
+  .gallery{
+    display: none;
+  }
+
+  .gallery__slider{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .gallery__slider img{
+    margin: 0;
+  }
+
+  .form__heading{
+    padding-top: 20px;
+  }
+
+  .form__heading p{
+    display: none;
+  }
+
+  .form-env{
+    width: 100%;
+    height: auto;
+    padding: 5% 3%;
+    line-height: 75px;
+  }
+
+  .form-env__name{
+    width: 45%;
+    float: left;
+  }
+
+  .form-env__email{
+    width: 45%;
+    float: left;
+    margin-left: 10%;
+  }
+
+  .form-env__plan{
+    width: 100%;
+  }
+
+  .form-env a{
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+
+  .partners{
+    height: auto;
+  }
+
+  .partners ul{
+    width: 110%;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    line-height: 0;
+  }
+
+  .partners img{
+    width: 80%;
+  }
+
+  .footer__social{
+    padding-top: 20px;
+  }
+
+  .footer__help{
+    padding-top: 20px;
+  }
+
+  .footer__contacts{
+    padding-top: 20px;
+    padding-left: 15%;
+  }
+
+  .footer__contacts a{
+    font-size: 100%;
+  }
+
+  .copyright p{
+    line-height: 40px;
+  }
+
+}
